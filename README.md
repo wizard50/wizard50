@@ -3,7 +3,7 @@
 Senior Full-Stack Software Engineer with 10+ years building scalable desktop, web, and blockchain apps—including a 10,000-item Polygon NFT collection.
 
 ### Interests
-- 🤖 Exploring AI applications in various domains through self-directed projects like my [PyTorch BTC Price Prediction](https://github.com/wizard50/btc-price-prediction-pytorch).
+- 🤖 Exploring AI/ML applications in various domains through self-directed projects like my [Agentic Quant Studio](https://github.com/wizard50/agentic-quant-studio)
 - 📈 Crypto quant trading and astro-finance analysis
 - 📚 Staying ahead with emerging tech trends through reading and research
 
