@@ -30,6 +30,7 @@ Remote | UTC-3 | Open to opportunities
       <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white" alt="Vue.js">
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js">
       <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" alt="Flask">
+      <img src="https://img.shields.io/badge/Axum-000000?style=flat&logo=axum&logoColor=white" alt="Axum">
     </td>
   </tr>
   <tr>
