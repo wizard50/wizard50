@@ -1,11 +1,14 @@
 ## Hi 👋, I'm wizard50
 
-Senior Full-Stack Software Engineer with 10+ years building scalable desktop, web, and blockchain apps—including a 10,000-item Polygon NFT collection.
+**Software Engineer** | Rust & AI/ML | 10+ years
+
+Remote | UTC-3 | Open to opportunities
 
 ### Interests
-- 🤖 Exploring AI/ML applications in various domains through self-directed projects like my [Agentic Quant Studio](https://github.com/wizard50/agentic-quant-studio)
-- 📈 Crypto quant trading and astro-finance analysis
-- 📚 Staying ahead with emerging tech trends through reading and research
+- 🤖 Building intelligent systems and **AI agents** with Rust and Python (currently working on [Agentic Quant Studio](https://github.com/wizard50/agentic-quant-studio))
+- 🧠 Machine learning, LLMs, RAG systems and autonomous tooling
+- 📈 Quantitative finance and trading systems
+
 
 ### Technical Skills
 
@@ -13,14 +16,15 @@ Senior Full-Stack Software Engineer with 10+ years building scalable desktop, we
   <tr>
     <td valign="top"><strong>Languages</strong></td>
     <td>
+      <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white" alt="Rust">
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
-      <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" alt="Java">
-      <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white" alt="Rust">
+      <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white" alt="Java">
+      <img src="https://img.shields.io/badge/Clojure-5881D8?style=flat&logo=clojure&logoColor=white" alt="Clojure">
     </td>
   </tr>
   <tr>
-    <td valign="top"><strong>Frameworks/Libraries</strong></td>
+    <td valign="top"><strong>Web Frameworks</strong></td>
     <td>
       <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React">
       <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white" alt="Vue.js">
@@ -29,10 +33,9 @@ Senior Full-Stack Software Engineer with 10+ years building scalable desktop, we
     </td>
   </tr>
   <tr>
-    <td valign="top"><strong>DevOps & Tools</strong></td>
+    <td valign="top"><strong>DevOps</strong></td>
     <td>
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker">
-      <img src="https://img.shields.io/badge/REST%20APIs-000000?style=flat&logo=rest&logoColor=white" alt="REST APIs">
       <img src="https://img.shields.io/badge/Nginx-269539?style=flat&logo=nginx&logoColor=white" alt="Nginx">
     </td>
   </tr>
@@ -44,7 +47,7 @@ Senior Full-Stack Software Engineer with 10+ years building scalable desktop, we
     </td>
   </tr>
   <tr>
-    <td valign="top"><strong>Web3/Blockchain</strong></td>
+    <td valign="top"><strong>Blockchain</strong></td>
     <td>
       <img src="https://img.shields.io/badge/ethers.js-3C3C3D?style=flat&logo=ethers&logoColor=white" alt="ethers.js">
       <img src="https://img.shields.io/badge/MetaMask-F6851B?style=flat&logo=metamask&logoColor=white" alt="MetaMask">
@@ -52,5 +55,6 @@ Senior Full-Stack Software Engineer with 10+ years building scalable desktop, we
   </tr>
 </table>
 
+
 ### Contact
-[Connect on X](https://x.com/wiz50dev)
+[![X (Twitter)](https://img.shields.io/badge/X-@wiz50dev-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/wiz50dev)
