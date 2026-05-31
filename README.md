@@ -1,6 +1,6 @@
 ## Hi 👋, I'm wizard50
 
-**Software Engineer** | Rust & AI/ML | 10+ years
+**Software Engineer** | Rust & AI
 
 Remote | UTC-3 | Open to opportunities
 
