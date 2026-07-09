@@ -5,10 +5,13 @@
 Remote | UTC-3 | Open to opportunities
 
 ### Interests
-- 🤖 Building intelligent systems and **AI agents** with Rust and Python (currently working on [Agentic Quant Studio](https://github.com/wizard50/agentic-quant-studio))
+- 🤖 Building intelligent systems and **AI agents** with Rust and Python
 - 🧠 Machine learning, LLMs, RAG systems and autonomous tooling
 - 📈 Quantitative finance and trading systems
 
+### 🚀 Currently Building
+- **[Agentic Quant Studio](https://github.com/wizard50/agentic-quant-studio)** — AI agents & data platform for quant finance (Rust + Next.js)
+- **[Agentic Doc](https://github.com/wizard50/agentic-doc)** — Production-grade Agentic RAG for documents (Python)
 
 ### Technical Skills
 
