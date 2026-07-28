@@ -21,19 +21,16 @@ Remote | UTC-3 | Open to opportunities
     <td>
       <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white" alt="Rust">
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript">
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
-      <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white" alt="Java">
-      <img src="https://img.shields.io/badge/Clojure-5881D8?style=flat&logo=clojure&logoColor=white" alt="Clojure">
     </td>
   </tr>
   <tr>
     <td valign="top"><strong>Web Frameworks</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React">
-      <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white" alt="Vue.js">
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js">
-      <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" alt="Flask">
       <img src="https://img.shields.io/badge/Axum-000000?style=flat&logo=axum&logoColor=white" alt="Axum">
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React">
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js">
     </td>
   </tr>
   <tr>
@@ -47,14 +44,8 @@ Remote | UTC-3 | Open to opportunities
     <td valign="top"><strong>ML/AI</strong></td>
     <td>
       <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch">
-      <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="scikit-learn">
-    </td>
-  </tr>
-  <tr>
-    <td valign="top"><strong>Blockchain</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/ethers.js-3C3C3D?style=flat&logo=ethers&logoColor=white" alt="ethers.js">
-      <img src="https://img.shields.io/badge/MetaMask-F6851B?style=flat&logo=metamask&logoColor=white" alt="MetaMask">
+      <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logo=langchain&logoColor=white" alt="LangGraph">
+      <img src="https://img.shields.io/badge/RAG-0A66C2?style=flat" alt="RAG">
     </td>
   </tr>
 </table>
