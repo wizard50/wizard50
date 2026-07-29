@@ -30,7 +30,6 @@ Remote | UTC-3 | Open to opportunities
     <td>
       <img src="https://img.shields.io/badge/Axum-000000?style=flat&logo=axum&logoColor=white" alt="Axum">
       <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React">
-      <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js">
     </td>
   </tr>
   <tr>
